@@ -1,0 +1,1 @@
+PhD thesis Latex template for Toronto Metropolitan University to follow the disseration instruction from https://www.torontomu.ca/content/dam/graduate/student-guide/academic-matters/dissertation-thesis-exams/Thesis_MRP_Dissertation_Guidelines1.pdf
